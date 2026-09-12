@@ -28,7 +28,7 @@ Las necesidades del cliente frente a la trazabilidad de inventario chocan direct
 flowchart TD
     A[Ventas / Administración] -->|F1: Ingreso manual de datos de cliente y pedido| B(P1: Gestión de Pedidos en Excel)
     C[Almacén / Producción] -->|F2: Consulta de stock y descuento de tela| D(P2: Control de Inventario en Excel)
-    E[Plataforma Facturación Electrónica] <--|F3: Transcripción manual de totales| B
+    B -->|F3: Transcripción manual de totales| E[Plataforma Facturación Electrónica]
     
     B -->|F4: Lectura y escritura concurrente| F[(D1: Disco Duro Local - Archivos Excel)]
     D -->|F4: Lectura y escritura concurrente| F
