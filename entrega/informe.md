@@ -24,6 +24,7 @@ Las necesidades del cliente frente a la trazabilidad de inventario chocan direct
 
 ## 📈 Diagrama final entregado
 
+```mermaid
 flowchart TD
     A[Ventas / Administración] -->|F1: Ingreso manual de datos de cliente y pedido| B(P1: Gestión de Pedidos en Excel)
     C[Almacén / Producción] -->|F2: Consulta de stock y descuento de tela| D(P2: Control de Inventario en Excel)
@@ -39,3 +40,4 @@ flowchart TD
     F
     end
     class Red Local Insuclínicos boundary
+```
