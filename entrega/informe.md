@@ -34,10 +34,11 @@ flowchart TD
     D -->|F4: Lectura y escritura concurrente| F
     
     classDef boundary fill:none,stroke:#FF0000,stroke-width:2px,stroke-dasharray: 5 5;
-    subgraph Red Local Insuclínicos
-    B
-    D
-    F
+    
+    subgraph RedLocalInsuclinicos [Red Local Insuclínicos]
+        B
+        D
+        F
     end
-    class Red Local Insuclínicos boundary
+    class RedLocalInsuclinicos boundary
 ```
