@@ -4,7 +4,7 @@
 Taller 5 - Evaluación de Seguridad con STRIDE aplicado a Insuclínicos Ltda.
 
 ## 👥 Integrantes del equipo
-* Jorge Steven Doncel Bejarano (gevengood)
+* Jorge Steven Doncel (gevengood)
 * David Santiago Buendia Londoño (Santiagoob7)
 
 ## 🧠 Descripción general del trabajo
