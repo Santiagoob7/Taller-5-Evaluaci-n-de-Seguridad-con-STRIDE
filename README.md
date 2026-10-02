@@ -4,7 +4,7 @@
 **Curso:** Arquitectura Empresarial (AREM) — Universidad de La Sabana  
 
 ## 👥 Equipo de Trabajo
-* **espacio jorge** (@gevengood)
+* **Jorge Steven Doncel** (@gevengood)
 * **David Santiago Buendia Londoño** (@Santiagoob7)
 
 ## 🧠 Descripción del Proyecto
