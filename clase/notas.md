@@ -4,7 +4,7 @@
 12 de septiembre de 2026
 
 ## 👥 Integrantes presentes
-* espacio jorge
+* Jorge Steven Doncel
 * David Santiago Buendia Londoño
 
 ## 🧠 Actividades realizadas en clase
